@@ -4,8 +4,7 @@ subtitle: "ACCT 3112 Accounting Data Management and Analytics"
 author: |
   Group 1   
   Rylan NG Wai Lok & Andrea NG Wing Sum   
-  Affiliation: The University of Hong Kong    
-  UID: 3036402008 & 3036336089    
+  Affiliation: The University of Hong Kong     
 date: "`r Sys.Date()`"
 output:
   pdf_document:
